@@ -1,4 +1,8 @@
 
+package "xfce4" do
+	action :install
+end
+
 package "php5-dev" do
 	action :install
 end
